@@ -1,0 +1,6 @@
+
+<div class="idme-btn-container"><span class="idme-btn-affinity">[AFFINITY GROUP] receives [OFFER] off with ID.me</span>
+<a href="https://api.id.me/oauth/authorize?client_id=9de432ff2156668f8d996417e7377ccb&redirect_uri=https://developer.id.me/organizations/724&response_type=code&scope=YOUR_SCOPE" class="idme-btn">
+  <img src="https://s3.amazonaws.com/idme/developer/idme-buttons-2.0.1/assets/img/btn-primary-Troop.png" border="0" alt="Verify with ID.me Troop ID" class="idme-btn-primary-lg-Troop">
+</a>
+<span class="idme-btn-verification"><img alt="Lock" src="https://s3.amazonaws.com/idme/assets/lock.png" class="idme-btn-lock" width="8">Verification by ID.me &bull; <a href="#" class="idme-modal-open">What is ID.me?</a></span></div>
